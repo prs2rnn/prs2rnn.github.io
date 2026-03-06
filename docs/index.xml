@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Главная on 🕸</title>
-    <link>http://localhost:1313/</link>
+    <link>https://prs2rnn.github.io/</link>
     <description>Recent content in Главная on 🕸</description>
     <generator>Hugo</generator>
     <language>ru-RU</language>
     <copyright>Copyright © 2026, prs2rnn.</copyright>
     <lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://prs2rnn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Крейсерское голодание Live</title>
-      <link>http://localhost:1313/%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B5-%D0%B3%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-live/</link>
+      <link>https://prs2rnn.github.io/%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B5-%D0%B3%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-live/</link>
       <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B5-%D0%B3%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-live/</guid>
+      <guid>https://prs2rnn.github.io/%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B5-%D0%B3%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-live/</guid>
       <description>&lt;h1 id=&#34;введение&#34;&gt;Введение&lt;/h1&gt;&#xA;&lt;p&gt;Приветствую! В данной статье освещен опыт по очищению организма от токсинов, в России они называются &amp;ldquo;шлаками&amp;rdquo;, с помощью лечебного/крейсерского голодания (далее по тексту - ЛГ), которое по мнению проф. А.П. Столешникова является лекарством от всех болезней. Практически весь опыт основан на его книге &amp;ldquo;Как вернуться к жизни&amp;rdquo;, найти которую можно в свободном доступе в интернете, что является одной из причин доверять её автору.&lt;/p&gt;&#xA;&lt;p&gt;Необходимость написания этой статьи обусловлена, во-первых, важностью заполнить время, которое в обычной жизни уделяется походам в магазин, готовке и употреблению пищи, чтобы не шабить, дрочить и, иншааллах, не повязнуть в других вредных для жизни делах. Во-вторых, и по порядку - просвещение и привлечение просвещенных&amp;hellip; этого достаточно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Асинхронность как основной подход к разработке высоконагруженных приложений</title>
-      <link>http://localhost:1313/%D0%B0%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BA%D0%B0%D0%BA-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4-%D0%BA-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5-%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9/</link>
+      <link>https://prs2rnn.github.io/%D0%B0%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BA%D0%B0%D0%BA-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4-%D0%BA-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5-%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/%D0%B0%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BA%D0%B0%D0%BA-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4-%D0%BA-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5-%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9/</guid>
+      <guid>https://prs2rnn.github.io/%D0%B0%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BA%D0%B0%D0%BA-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4-%D0%BA-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5-%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9/</guid>
       <description>&lt;p&gt;В данной статье освещаются основные подходы к современной разработке высоконагруженных приложений, в частности, предоставляющие основной интерфейс для взаимодействия с пользователем при помощи браузера или иного клиента, в функционал которого заложена отправка http запросов к серверу.&lt;/p&gt;&#xA;&lt;h1 id=&#34;введение&#34;&gt;Введение&lt;/h1&gt;&#xA;&lt;p&gt;Понятие высоконагруженного приложения можно интерпретировать как любое приложение или сервис, обслуживающий большое количество одновременных запросов. Результатом данного события является значительная нагрузка на системные ресурсы, такие как использование процессора, потребление памяти, пропускная способность сети и т.д. В соответствии с этими ограничениями возникает вопрос: как обеспечить эффективную и надежную работу при высоких нагрузках?&lt;/p&gt;</description>
     </item>
   </channel>
