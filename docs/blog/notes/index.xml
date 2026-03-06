@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on </title>
+    <link>http://localhost:1313/blog/notes/</link>
+    <description>Recent content in Notes on </description>
+    <generator>Hugo</generator>
+    <language>ru-RU</language>
+    <copyright>Copyright © 2026, prs2rnn.</copyright>
+    <lastBuildDate>Fri, 06 Mar 2026 08:25:06 +0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Note</title>
+      <link>http://localhost:1313/my-first-note/</link>
+      <pubDate>Fri, 06 Mar 2026 08:25:06 +0500</pubDate>
+      <guid>http://localhost:1313/my-first-note/</guid>
+      <description>&lt;p&gt;This is a page about »My First Note«.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

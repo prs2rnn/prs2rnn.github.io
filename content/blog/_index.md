@@ -1,5 +1,5 @@
 +++
-title = "Blog"
+title = "Заметки"
 menu = "main"
 weight = 100
 +++
