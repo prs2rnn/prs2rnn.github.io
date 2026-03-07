@@ -11,7 +11,7 @@ theme = 'hugo-bearblog'
 title = "🕸 prs2rnn"
 author = "prs2rnn"
 copyright = "Copyright © 2026, prs2rnn."
-languageCode = "ru-RU"
+languageCode = "ru-ru"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
@@ -62,7 +62,24 @@ ignoreErrors = ["error-disable-taxonomy"]
 # https://gohugo.io/configuration/markup/#highlight
 [markup]
   [markup.highlight]
-    style = 'dracula'
+    style = 'github-dark'
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
+
+# Помогает поисковым системам лучше индексировать сайт
+[sitemap]
+  changefreq = 'monthly'
+  priority = 0.5
+  filename = 'sitemap.xml'
+
+
+# [languages]
+#   [languages.ru]
+#     languagecode = 'ru-ru'
+
+# Уменьшает размер HTML, CSS и JS‑файлов, ускоряя загрузку страниц.
+[minify]
+  disableHTML = false
+  disableCSS = false
+  disableJS = false
