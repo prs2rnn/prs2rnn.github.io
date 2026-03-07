@@ -40,13 +40,13 @@ ignoreErrors = ["error-disable-taxonomy"]
   # The path to your favicon file, which should be a square PNG file at least 32px x 32px.
   # 提示：最好将 favicon.ico 文件放入你的 static 文件夹中
   # Hint: It is best to place the favicon.ico file in your static folder.
-  # favicon = "img/favicon.png"
+  favicon = "images/favicon.png"
 
   # 这些图像用于结构化数据模板。这将显示为如 Twitter 或 Slack 想要为一个链接到你的网站的链接生成预览时
   # These images are used for structured data templates. This will be displayed as when Twitter or Slack want to generate a preview for a link to your website.
   # 请参见 https://gohugo.io/templates/embedded/#x-twitter-cards 和 https://gohugo.io/templates/internal#open-graph
   # Please refer to https://gohugo.io/templates/embedded/#x-twitter-cards and https://gohugo.io/templates/internal#open-graph.
-  # images = ["img/share.png"]
+  images = ["images/share.png"]
 
   # 默认情况下，此主题以「02 Jan, 2006」的格式显示日期
   # By default, this theme displays dates in the format '02 Jan, 2006'.
@@ -122,16 +122,8 @@ ignoreErrors = ["error-disable-taxonomy"]
     # email = "example@example.com"
 
 [markup]
-  # 配置 TOC 渲染规则
-  # Configure TOC rendering rules.
-  [markup.tableOfContents]
-    # 从 h2 开始到 h3 结束，后续的 h 等级将不会被渲染
-    # From h2 to h3, subsequent h levels will not be rendered.
-    startLevel = 2
-    endLevel = 3
-
   [markup.highlight]
-    style = 'github-dark'
+    style = 'monokai'
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
