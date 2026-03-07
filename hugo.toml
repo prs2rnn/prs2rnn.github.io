@@ -68,7 +68,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
   # 博客文章列表是否显示文章数量（只统计未被隐藏的文章），Bear Blog 样式为 false
   # The blog post list does not display the number of articles (only counts the articles that have not been hidden), the Bear Blog style is false.
-  showPostCount = true
+  # showPostCount = true
 
   # 博客文章列表页是否启用文章搜索功能
   # Is the article search function enabled on the blog article list page?
