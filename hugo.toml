@@ -80,7 +80,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
   # 文章页是否启用图片放大功能
   # Article page whether enabled image zoom?
-  # imageZoom = true
+  imageZoom = true
 
   # Post Upvote API 的配置，详见 https://github.com/rokcso/post-upvote-api
   # Post Upvote API configuration, see https://github.com/rokcso/post-upvote-api for details.
@@ -110,8 +110,8 @@ ignoreErrors = ["error-disable-taxonomy"]
     pageLimit = 10
     # Follow App 的 feedId 和 userId，用于在 Follow App 中 Claim 你的博客，参见：https://rokcso.com/p/follow-claim-feed/
     # Follow App's feedId and userId are used to claim your blog in Follow App, see: https://rokcso.com/p/follow-claim-feed/.
-    followFeedId = "00000000000000000"
-    followUserId = "00000000000000000"
+    # followFeedId = "00000000000000000"
+    # followUserId = "00000000000000000"
 
   [params.author]
     # 若不配置，默认空
@@ -136,11 +136,11 @@ ignoreErrors = ["error-disable-taxonomy"]
     lineNumbersInTable = false
     codeFences = true
 
-# Помогает поисковым системам лучше индексировать сайт
-[sitemap]
-  changefreq = 'monthly'
-  priority = 0.5
-  filename = 'sitemap.xml'
+# # Помогает поисковым системам лучше индексировать сайт
+# [sitemap]
+#   changefreq = 'monthly'
+#   priority = 0.5
+#   filename = 'sitemap.xml'
 
 
 # [languages]
