@@ -12,9 +12,15 @@
 </p>
 {{ end }}
 {{ end }}
-{{ end }} 
+{{ end }}
 
 <content> {{ .Content }} </content>
+
+{{ if eq .Title "Now" }}
+  {{ if .Lastmod }}
+    <p><small>Последнее обновление: {{ .Lastmod.Format "02.01.2006" }}</small></p>
+  {{ end }}
+{{ end }}
 
 <p>
   {{ range (.GetTerms "tags") }}
@@ -128,7 +134,7 @@
 
 <!-- Place the TOC at the end to ensure the article content loads first. -->
 {{ $tocEnabled := default .Site.Params.toc .Params.toc }}
-{{ if $tocEnabled }} 
+{{ if $tocEnabled }}
 <div class="toc">
 {{ partial "toc.html" . }}
 </div>

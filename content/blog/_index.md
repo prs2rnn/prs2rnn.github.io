@@ -1,5 +1,5 @@
 +++
 title = "Заметки"
 menu = "main"
-weight = 100
+weight = 20
 +++
