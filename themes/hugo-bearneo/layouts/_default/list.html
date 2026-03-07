@@ -67,25 +67,26 @@
     {{ $currentYear = $year }}
     {{ end }}
     {{ end }}
-    <li>
-      <span class="{{ if .Site.Params.groupByYear }} grouped {{ else }} ungrouped {{ end }}">
-        <i>
-          <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
-            {{ if .Site.Params.groupByYear }}
+  <li>
+    <span class="{{ if .Site.Params.groupByYear }} grouped {{ else }} ungrouped {{ end }}">
+      <i>
+        <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+          {{ if .Site.Params.groupByYear }}
             {{ .Date.Format (default "02 Jan." .Site.Params.dateFormat) }}
-            {{ else }}
+          {{ else }}
             {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
-            {{ end }}
-          </time>
-        </i>
-      </span>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
-    {{ end }}
-    {{ else }}
-    <li>
-      No posts yet
-    </li>
+          {{ end }}
+        </time>
+      </i>
+    </span>
+    &nbsp; <!-- Неразрывный пробел -->
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+  {{ else }}
+  <li>
+    No posts yet
+  </li>
     {{ end }}
   </ul>
   {{ if .Data.Singular }}
