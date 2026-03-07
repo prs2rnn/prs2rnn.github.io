@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Фильмы on 🕸</title>
+    <title>Фильмы on 🕸 prs2rnn</title>
     <link>https://prs2rnn.github.io/blog/%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B/</link>
-    <description>Recent content in Фильмы on 🕸</description>
+    <description>Recent content in Фильмы on 🕸 prs2rnn</description>
     <generator>Hugo</generator>
     <language>ru-RU</language>
     <copyright>Copyright © 2026, prs2rnn.</copyright>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 22:14:28 +0500</lastBuildDate>
     <atom:link href="https://prs2rnn.github.io/blog/%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music</title>
+      <link>https://prs2rnn.github.io/music/</link>
+      <pubDate>Fri, 06 Mar 2026 22:14:28 +0500</pubDate>
+      <guid>https://prs2rnn.github.io/music/</guid>
+      <description>&lt;p&gt;This is a page about »Music«.&lt;/p&gt;&#xA;&lt;p&gt;Тимур Муцураев&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Перечень фильмов</title>
       <link>https://prs2rnn.github.io/%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%B5%D0%BD%D1%8C-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2/</link>
