@@ -6,8 +6,8 @@ date = "2026-03-11T17:33:03+05:00"
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-tags = ["python","база","джихад здоровья","книги","программирование","фильмы",]
-draft = true
+
+draft = false
 +++
 
 This is a page about »My Dear Cat«.
