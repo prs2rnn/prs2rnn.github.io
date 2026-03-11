@@ -4,3 +4,5 @@ draft: true
 title: 'Музыкальные композиции'
 tags: ["",]
 ---
+
+{{< audio src="/blog/Гимн.mp3" caption="Гимн" >}}
