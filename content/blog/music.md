@@ -1,7 +1,7 @@
 ---
 date: '2026-03-07T11:57:30+05:00'
-draft: true
-title: 'Музыкальные композии'
+draft: false
+title: 'Музыкальные композици'
 tags: ["музыка",]
 ---
 
@@ -12,7 +12,6 @@ tags: ["музыка",]
 	{{< audio src="/blog/Война.mp3" caption="Война" >}}
 	{{< audio src="/blog/Иерусалим.mp3" caption="Иерусалим" >}}
 	{{< audio src="/blog/НетДорогиНазад.mp3" caption="Нет Дороги Назад" >}}
-	{{< audio src="/blog/Еслидухомтыслаб.mp3" caption="Если духом ты слаб" >}}
 	{{< audio src="/blog/ЖизниПутьЛишьОдин.mp3" caption="Жизни Путь Лишь Один" >}}
 	{{< audio src="/blog/Необъятныедали.mp3" caption="Необъятные дали" >}}
 	{{< audio src="/blog/Свобода.mp3" caption="Свобода" >}}
