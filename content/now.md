@@ -10,13 +10,13 @@ menu = "main"
 
 draft = false
 weight = 10
-lastmod = 2026-03-11
+lastmod = 2026-03-22
 +++
 
-_Inspired by the [nownownow.com](https://nownownow.com/about) movement_
+_Inspired by the {{< extlink url="https://nownownow.com/about" text="nownownow.com" >}} movement_
 
-- Работаю техником в автосервисе и подрабатываю грузчиком на крупном складе
-- Изучаю English ежедневно. Текущий уровень A2
+- Работаю техником в шинке
+- Изучаю English ежедневно. {{< extlink url="https://postimg.cc/gallery/yNjqx8H" text="Текущий уровень" >}}
 - Пашу в качалке
 - Параллельно осваиваю самые распространенные навыки, указанные в интересующих меня вакансиях
 
