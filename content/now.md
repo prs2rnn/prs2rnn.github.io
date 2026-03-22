@@ -9,7 +9,7 @@ menu = "main"
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
 draft = false
-weight = 10
+weight = 2
 lastmod = 2026-03-22
 +++
 

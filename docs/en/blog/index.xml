@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on 🕸</title>
+    <link>https://prs2rnn.github.io/en/blog/</link>
+    <description>Recent content in Blog on 🕸</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    
+    
+    
+    <copyright>Copyright © 2026, prs2rnn.</copyright>
+    
+    
+    <lastBuildDate>Wed, 11 Mar 2026 17:33:03 +0500</lastBuildDate>
+    
+    
+    <atom:link href="https://prs2rnn.github.io/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My dear cat</title>
+      <link>https://prs2rnn.github.io/en/p/my-dear-cat/</link>
+      <pubDate>Wed, 11 Mar 2026 17:33:03 +0500</pubDate>
+      <guid>https://prs2rnn.github.io/en/p/my-dear-cat/</guid>
+      <description>&lt;p&gt;This is a page about »My Dear Cat«.&#xA;&lt;figure&#xA;    class=&#34;image-caption image-zoom-container&#34;&#xA;&gt;&#xA;    &#xA;    &lt;input&#xA;        type=&#34;checkbox&#34;&#xA;        id=&#34;img-cb9f17ba&#34;&#xA;        class=&#34;image-zoom-toggle&#34;&#xA;        aria-label=&#34;放大图片：Winter, 2024-2025&#34;&#xA;    /&gt;&#xA;    &lt;label&#xA;        for=&#34;img-cb9f17ba&#34;&#xA;        class=&#34;image-zoom-label&#34;&#xA;    &gt;&#xA;        &lt;img&#xA;            src=&#34;https://prs2rnn.github.io/blog/me_and_cat.JPG&#34;&#xA;            alt=&#34;Winter, 2024-2025&#34;&#xA;            loading=&#34;lazy&#34;&#xA;            class=&#34;zoomable-image&#34;&#xA;        /&gt;&#xA;    &lt;/label&gt;&#xA;    &#xA;    &lt;label&#xA;        for=&#34;img-cb9f17ba&#34;&#xA;        class=&#34;image-zoom-overlay&#34;&#xA;    &gt;&#xA;        &lt;img&#xA;            src=&#34;https://prs2rnn.github.io/blog/me_and_cat.JPG&#34;&#xA;            alt=&#34;Winter, 2024-2025&#34;&#xA;            class=&#34;zoomable-image&#34;&#xA;        /&gt;&#xA;    &lt;/label&gt;&#xA;    &#xA;    &lt;figcaption&gt;Winter, 2024-2025&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>
