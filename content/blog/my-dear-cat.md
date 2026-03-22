@@ -11,4 +11,4 @@ draft = false
 +++
 
 This is a page about »My Dear Cat«.
-![Зима, 2024-2025](/blog/me_and_cat.JPG)
+![Зима, 2024-2025](/blog/me_and_cat.JPG "Кот")

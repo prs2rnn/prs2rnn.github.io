@@ -20,15 +20,20 @@ draft = false
  - Silent Mibile Phone **Phillips Xenium X170**
  
  ## Software
- - **Windows 10** on my desktop
- - **Obsidian** for notes
- - **Git Bash**, **Power shell**
- - **Neovim**, **Notepad++** as text editors
- - **Excel** with **PowerQuery** for sheets and data editing
- - **Hugo** for this website
- - **Anki** for learning English
- - **Torrent** for music, videos and so on
+ - **Windows 10** как основную ОС
+ - **Obsidian** для заметок
+ - **Git Bash** и **Power shell** для командных утилит
+ - **Neovim** и **Notepad++** для редактирования текста и кода
+ - **Excel** с **PowerQuery** для работы с данными
+ - **Hugo** для блога
+ - **Anki** для изучения English
+ - **Torrent** для [музыки]({{< relref "music" >}}), [фильмов]({{< relref "films" >}}) и иногда [книг]({{< relref "books" >}})
+ - **KeepassXC** для хранения паролей
+ - **Gnupg** и **VeraCrypt** для шифрования
+ - **Photoshop CS6** для редактирования изображений
+ - **Firefox** и **Tor Browser** для доступа в интернет
+ - **Python** для написания алгоритмов
  
  ## Services
- - **Github** for code store
- - **Alice AI** as AI assistant
+ - **GitHub** для хостинга
+ - **Алиса GPT** как ИИ-ассистент
