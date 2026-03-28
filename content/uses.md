@@ -19,13 +19,13 @@ weight = 4
  
  ## Hardware
  - Silent PC **Modern 14** - C12M
- - Silent Mibile Phone **Phillips Xenium X170**
+ - Silent Mobile Phone **Phillips Xenium X170**
  
  ## Software
  - **Windows 10** как основную ОС
  - **Obsidian** для заметок
  - **Git Bash** и **Power shell** для командных утилит
- - **Neovim** и **Notepad++** для редактирования текста и кода
+ - **Neovim** и **VSCodium** для редактирования текста и кода
  - **Excel** с **PowerQuery** для работы с данными
  - **Hugo** для блога
  - **Anki** для изучения English
