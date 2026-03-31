@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://prs2rnn.github.io/en/blog/</loc>
-    <lastmod>2026-03-11T17:33:03+05:00</lastmod>
+    <lastmod>2026-03-31T13:08:46+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -18,7 +18,7 @@
                 />
   </url><url>
     <loc>https://prs2rnn.github.io/en/</loc>
-    <lastmod>2026-03-11T17:33:03+05:00</lastmod>
+    <lastmod>2026-03-31T13:08:46+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -30,6 +30,21 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://prs2rnn.github.io/en/"
+                />
+  </url><url>
+    <loc>https://prs2rnn.github.io/en/p/what-i-cant-live-without/</loc>
+    <lastmod>2026-03-31T13:08:46+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://prs2rnn.github.io/p/10-%D0%B2%D0%B5%D1%89%D0%B5%D0%B9-%D0%B1%D0%B5%D0%B7-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85-%D0%BC%D0%BD%D0%B5-%D0%BD%D0%B5-%D0%B6%D0%B8%D1%82%D1%8C/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://prs2rnn.github.io/en/p/what-i-cant-live-without/"
                 />
   </url><url>
     <loc>https://prs2rnn.github.io/en/p/my-dear-cat/</loc>

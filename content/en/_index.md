@@ -3,7 +3,7 @@ title = "Home"
 +++
 ![](/images/I-v1.JPG)
 
-Hello! The important [notes]({{< relref "blog/" >}}) to me about job and life are published here
+Welcome! There are some [notes]({{< relref "blog/" >}}) about my job and life
 
 ---
 
