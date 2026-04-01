@@ -83,6 +83,7 @@ ignoreErrors = ["error-disable-taxonomy"]
         postSearch = true
         toc = true
         imageZoom = true
+        showPostCount = true
 
         [languages.en.params.footer]
             hideCopyright = false
