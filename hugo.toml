@@ -102,7 +102,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 [[languages.ru.menu.main]]
     name = "En"
     url = "/en/"
-    weight = 5
+    weight = 6
 
 # Меню для английского языка
 [[languages.en.menu.main]]
