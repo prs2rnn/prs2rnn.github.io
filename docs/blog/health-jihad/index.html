@@ -1,27 +1,24 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="ru-ru">
 
 <head>
-	<meta name="generator" content="Hugo 0.157.0">
   <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="shortcut icon" href="https://prs2rnn.github.io/images/favicon.png" />
-<title>Home | 🕸</title>
-<meta name="title" content="Home" />
+<title>Health Jihad | 🕸</title>
+<meta name="title" content="Health Jihad" />
 <meta name="description" content="Blog" />
-<meta name="keywords" content="basic,health jihad," />
+<meta name="keywords" content="basic,health jihad,python,база,джихад здоровья,качалка,книги,музыка,программирование,трип,фильмы," />
 
-<link rel="canonical" href="https://prs2rnn.github.io/en/">
+<link rel="canonical" href="https://prs2rnn.github.io/blog/health-jihad/">
 
 
-<meta property="og:url" content="https://prs2rnn.github.io/en/">
+<meta property="og:url" content="https://prs2rnn.github.io/blog/health-jihad/">
   <meta property="og:site_name" content="🕸">
-  <meta property="og:title" content="Home">
-  <meta property="og:description" content="Welcome! There are some notes about my job and life
-Contacts:
-Email: developer [dot] prs2rnn [at] gmail [dot] com (gpg key) Jabber: tmnfu8kb [at] xmpp.jp">
-  <meta property="og:locale" content="en_us">
+  <meta property="og:title" content="Health Jihad">
+  <meta property="og:description" content="Blog">
+  <meta property="og:locale" content="ru_ru">
   <meta property="og:type" content="website">
     <meta property="og:image" content="https://prs2rnn.github.io/images/share.png">
 
@@ -30,25 +27,20 @@ Email: developer [dot] prs2rnn [at] gmail [dot] com (gpg key) Jabber: tmnfu8kb [
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="https://prs2rnn.github.io/images/share.png">
-  <meta name="twitter:title" content="Home">
-  <meta name="twitter:description" content="Welcome! There are some notes about my job and life
-Contacts:
-Email: developer [dot] prs2rnn [at] gmail [dot] com (gpg key) Jabber: tmnfu8kb [at] xmpp.jp">
+  <meta name="twitter:title" content="Health Jihad">
+  <meta name="twitter:description" content="Blog">
 
 
 
 
-  <meta itemprop="name" content="Home">
-  <meta itemprop="description" content="Welcome! There are some notes about my job and life
-Contacts:
-Email: developer [dot] prs2rnn [at] gmail [dot] com (gpg key) Jabber: tmnfu8kb [at] xmpp.jp">
+  <meta itemprop="name" content="Health Jihad">
+  <meta itemprop="description" content="Blog">
   <meta itemprop="datePublished" content="2026-04-06T11:00:12+05:00">
   <meta itemprop="dateModified" content="2026-04-06T11:00:12+05:00">
-  <meta itemprop="wordCount" content="25">
   <meta itemprop="image" content="https://prs2rnn.github.io/images/share.png">
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
-  <link rel="alternate" type="application/rss+xml" href="https://prs2rnn.github.io/en/index.xml" title="🕸" />
+  <link rel="alternate" type="application/rss+xml" href="https://prs2rnn.github.io/blog/health-jihad/index.xml" title="🕸" />
   <style>
      
     :root {
@@ -556,37 +548,108 @@ Email: developer [dot] prs2rnn [at] gmail [dot] com (gpg key) Jabber: tmnfu8kb [
 </head>
 
 <body>
-  <header><a href="/en/" class="title">
+  <header><a href="/" class="title">
   <h2>🕸</h2>
 </a>
 <nav>
-<a href="/en/">Home</a>
+<a href="/">Главная</a>
 
-<a href="/en/blog/">Blog</a>
+<a href="/now/">Now</a>
 
-<a href="/">Ru</a>
+<a href="/blog/">Заметки</a>
+
+<a href="/uses/">Tools I Use</a>
+
+<a href="/portfolio/">Разработка</a>
+
+<a href="/en/">En</a>
 
 
 
 </nav>
 </header>
-  <main> <p><figure
-    class="image-caption"
->
+  <main>
+<content>
+  
+  <h3 style="margin-bottom:0">Filtering for "Health Jihad"</h3>
+  <small>
+    <a href="/blog">Remove filter</a>
+  </small>
+  
+  
+  <input id="search-input" type="text" placeholder="Search..." style="margin-top: 16px" />
+  <script>
     
-    <img src="/images/I-v1.JPG" alt="" loading="lazy" />
+    document.addEventListener('DOMContentLoaded', function () {
+      
+      const searchInput = document.getElementById('search-input');
+      const posts = document.querySelectorAll('.blog-posts li');
+      const years = document.querySelectorAll('.blog-posts h3');
+
+      
+      function updateSearchResults(searchTerm) {
+        let visiblePosts = 0;
+        const displayedYears = new Set();
+        posts.forEach(function (post) {
+          const title = post.querySelector('a').textContent.toLowerCase();
+          const year = post.querySelector('time').getAttribute('datetime').split('-')[0];
+          if (title.includes(searchTerm)) {
+            post.style.display = '';
+            visiblePosts++;
+            displayedYears.add(year);
+          } else {
+            post.style.display = 'none';
+          }
+        });
+
+        
+        years.forEach(function (y) {
+          const year = y.textContent;
+          y.style.display = displayedYears.has(year) ? '' : 'none';
+        });
+        
+
+        
+      }
+
+      searchInput.addEventListener('input', function () {
+        updateSearchResults(this.value.toLowerCase().trim());
+      });
+    });
+  </script>
+  
+  
+  <ul class="blog-posts">
     
-    <figcaption></figcaption>
-</figure>
-</p>
-<p>Welcome! There are some <a href="/en/blog/">notes</a> about my job and life</p>
-<hr>
-<p>Contacts:</p>
-<ul>
-<li>Email: developer [dot] prs2rnn [at] gmail [dot] com (<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/452304BDA1BA717DF84EA50E421CA9513DBCAD80">gpg key</a>)</li>
-<li>Jabber: tmnfu8kb [at] xmpp.jp</li>
-</ul>
- 
+    
+    
+    
+    
+    
+    <h3>2026</h3>
+    
+    
+    
+  <li>
+    <span class=" grouped ">
+      <i>
+        <time datetime='2026-04-06' pubdate>
+          
+            06.04.2026
+          
+        </time>
+      </i>
+    </span>
+    &nbsp; 
+    <a href="https://prs2rnn.github.io/en/blog/food/">Men&#39;s food</a>
+  </li>
+  
+  
+  </ul>
+  
+  
+</content>
+
   </main>
   <footer>
 
