@@ -10,7 +10,7 @@ tags = ["basic","health jihad",]
 draft = false
 +++
 
-{{< audio src="/en/blog/honey.mp3" type="audio/mpeg" muted="true" caption="" loop="false" >}}
+{{< audio src="/en/blog/honey.mp3" type="audio/mpeg" >}}
 
 Honey is more than just regular white table sugar - it contains many unique beneficial components:
 
