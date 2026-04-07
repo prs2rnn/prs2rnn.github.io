@@ -10,6 +10,8 @@ tags = ["basic","health jihad",]
 draft = false
 +++
 
+{{< audio src="/en/blog/honey.mp3" type="audio/mpeg" muted="true" caption="" loop="false" >}}
+
 Honey is more than just regular white table sugar - it contains many unique beneficial components:
 
 1. Honey doesn't splash when you hit the surface with a spoon. This is a way to check if it's adulterated
