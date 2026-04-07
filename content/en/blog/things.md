@@ -22,7 +22,7 @@ There are 10 things I can't live (I can) without below.
 
 5. **Crystal deodorant** after shower prevents bad smells for 24 hours, and it's eco-friendly
 
-6. **Honey** is the best thing that nature has created
+6. [Honey]({{< relref "honey" >}}) is the best thing that nature has created
 
 7. **Nasal irrigator**. Washing a nose after a day in city environment is a necessity for breathing properly
 

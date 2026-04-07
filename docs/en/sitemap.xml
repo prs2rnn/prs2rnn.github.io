@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://prs2rnn.github.io/en/blog/basic/</loc>
-    <lastmod>2026-04-06T11:00:12+05:00</lastmod>
+    <lastmod>2026-04-07T09:47:53+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -18,7 +18,7 @@
                 />
   </url><url>
     <loc>https://prs2rnn.github.io/en/blog/</loc>
-    <lastmod>2026-04-06T11:00:12+05:00</lastmod>
+    <lastmod>2026-04-07T09:47:53+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -33,7 +33,7 @@
                 />
   </url><url>
     <loc>https://prs2rnn.github.io/en/blog/health-jihad/</loc>
-    <lastmod>2026-04-06T11:00:12+05:00</lastmod>
+    <lastmod>2026-04-07T09:47:53+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -48,7 +48,7 @@
                 />
   </url><url>
     <loc>https://prs2rnn.github.io/en/</loc>
-    <lastmod>2026-04-06T11:00:12+05:00</lastmod>
+    <lastmod>2026-04-07T09:47:53+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -61,6 +61,11 @@
                 hreflang="en-us"
                 href="https://prs2rnn.github.io/en/"
                 />
+  </url><url>
+    <loc>https://prs2rnn.github.io/en/p/the-power-of-honey/</loc>
+    <lastmod>2026-04-07T09:47:53+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://prs2rnn.github.io/en/p/mens-food/</loc>
     <lastmod>2026-04-06T11:00:12+05:00</lastmod>

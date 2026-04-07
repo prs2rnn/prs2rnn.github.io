@@ -16,7 +16,7 @@ Food is one of the main bases of health, on par with activity and sleep. In this
 
 - **Protein**: meat, eggs, Greek yogurt
 - **Vegetable store**: dates, pumpkin seeds, walnuts, onion, garlic, ginger, lemon, greens, green buckwheat, cabbage
-- **Sweets**: halva, honey, gozinaki
+- **Sweets**: halva, [honey]({{< relref "honey" >}}), gozinaki
 - **Carbs**: porridge, brown rice, potatoes in their skins
 - **Bread**: rye bread
 - **Fats**: melted butter, coconut oil

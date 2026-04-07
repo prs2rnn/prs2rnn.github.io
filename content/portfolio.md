@@ -13,4 +13,4 @@ tags = ["python", "программирование",]
 draft = false
 weight = 5
 +++
-- {{< extlink url="https://github.com/prs2rnn/quickpass" text="QuickPass" >}} - наипростейший генератор паролей в виде консольной утилиты с использованием встроенной библиотеки Python3
+- {{< extlink url="https://github.com/prs2rnn/quickpass" text="QuickPass" >}} - наипростейший генератор паролей с консольным интерфейсом, написанный с использованием встроенной библиотеки Python3

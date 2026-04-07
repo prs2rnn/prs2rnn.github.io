@@ -28,7 +28,7 @@
       <link>https://prs2rnn.github.io/portfolio/</link>
       <pubDate>Thu, 02 Apr 2026 23:49:32 +0500</pubDate>
       <guid>https://prs2rnn.github.io/portfolio/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/prs2rnn/quickpass&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;QuickPass&lt;/a&gt; - наипростейший генератор паролей в виде консольной утилиты с использованием встроенной библиотеки Python3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/prs2rnn/quickpass&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;QuickPass&lt;/a&gt; - наипростейший генератор паролей с консольным интерфейсом, написанный с использованием встроенной библиотеки Python3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
     </item>
     <item>
       <title>Асинхронность как основной подход к разработке высоконагруженных приложений</title>
