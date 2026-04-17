@@ -102,7 +102,7 @@ enableGitInfo = true
         [languages.en.params.author]
             name = "Andrey Perestoronin"
 
-# Меню для русского языка (добавлена ссылку на английскую версию)
+# Меню для русского языка (добавлена ссылка на английскую версию)
 [[languages.ru.menu.main]]
     name = "En"
     url = "/en/"
@@ -120,6 +120,11 @@ enableGitInfo = true
     weight = 2
 
 [[languages.en.menu.main]]
+    name = "Now"
+    url = "/en/now/"
+    weight = 3
+
+[[languages.en.menu.main]]
     name = "Ru"
     url = "/"
-    weight = 3
+    weight = 4

@@ -15,7 +15,7 @@ weight = 2
 _Inspired by the {{< extlink url="https://nownownow.com/about" text="nownownow.com" >}} movement_
 
 - Работаю техником в шинке
-- Изучаю English ежедневно. {{< extlink url="https://postimg.cc/gallery/fb9y8yh" text="Текущий уровень" >}}
+- Изучаю English ежедневно. {{< extlink url="https://cert.efset.org/83Guhq" text="Текущий уровень" >}}
 - Пашу в качалке
 - Параллельно осваиваю самые распространенные навыки, указанные в интересующих меня вакансиях
 

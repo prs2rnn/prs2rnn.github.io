@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://prs2rnn.github.io/en/now/</loc>
+    <lastmod>2026-04-17T19:38:25+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://prs2rnn.github.io/now/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://prs2rnn.github.io/en/now/"
+                />
+  </url><url>
     <loc>https://prs2rnn.github.io/en/blog/basic/</loc>
-    <lastmod>2026-04-07T09:47:53+05:00</lastmod>
+    <lastmod>2026-04-07T16:42:54+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,23 +32,23 @@
                 href="https://prs2rnn.github.io/en/blog/basic/"
                 />
   </url><url>
-    <loc>https://prs2rnn.github.io/en/blog/</loc>
-    <lastmod>2026-04-07T09:47:53+05:00</lastmod>
+    <loc>https://prs2rnn.github.io/en/blog/beekeeping/</loc>
+    <lastmod>2026-04-07T16:42:54+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://prs2rnn.github.io/blog/"
+                href="https://prs2rnn.github.io/blog/beekeeping/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://prs2rnn.github.io/en/blog/"
+                href="https://prs2rnn.github.io/en/blog/beekeeping/"
                 />
   </url><url>
     <loc>https://prs2rnn.github.io/en/blog/health-jihad/</loc>
-    <lastmod>2026-04-07T09:47:53+05:00</lastmod>
+    <lastmod>2026-04-07T16:42:54+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -47,33 +62,18 @@
                 href="https://prs2rnn.github.io/en/blog/health-jihad/"
                 />
   </url><url>
-    <loc>https://prs2rnn.github.io/en/</loc>
-    <lastmod>2026-04-07T09:47:53+05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://prs2rnn.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://prs2rnn.github.io/en/"
-                />
-  </url><url>
     <loc>https://prs2rnn.github.io/en/p/the-power-of-honey/</loc>
-    <lastmod>2026-04-07T09:47:53+05:00</lastmod>
+    <lastmod>2026-04-07T16:42:54+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://prs2rnn.github.io/en/p/mens-food/</loc>
-    <lastmod>2026-04-06T11:00:12+05:00</lastmod>
+    <lastmod>2026-04-07T10:41:56+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://prs2rnn.github.io/en/p/what-i-cant-live-without/</loc>
-    <lastmod>2026-03-31T13:08:46+05:00</lastmod>
+    <lastmod>2026-04-07T10:41:56+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -88,7 +88,7 @@
                 />
   </url><url>
     <loc>https://prs2rnn.github.io/en/p/my-dear-cat/</loc>
-    <lastmod>2026-03-11T17:33:03+05:00</lastmod>
+    <lastmod>2026-03-22T18:24:45+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -100,6 +100,36 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://prs2rnn.github.io/en/p/my-dear-cat/"
+                />
+  </url><url>
+    <loc>https://prs2rnn.github.io/en/blog/</loc>
+    <lastmod>2026-03-22T18:24:45+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://prs2rnn.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://prs2rnn.github.io/en/blog/"
+                />
+  </url><url>
+    <loc>https://prs2rnn.github.io/en/</loc>
+    <lastmod>2026-03-31T13:53:22+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://prs2rnn.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://prs2rnn.github.io/en/"
                 />
   </url>
 </urlset>
