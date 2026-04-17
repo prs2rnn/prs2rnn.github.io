@@ -11,4 +11,4 @@ About me: [/now]({{< relref "now" >}}), my interests: check tags at the bottom o
 
 Contacts:
 - Email: developer [dot] prs2rnn [at] gmail [dot] com ([gpg key](https://keys.openpgp.org/vks/v1/by-fingerprint/452304BDA1BA717DF84EA50E421CA9513DBCAD80))
-- Jabber: tmnfu8kb [at] xmpp [dot] jp
+- Jabber: 2nc7k [at] xmpp [dot] jp

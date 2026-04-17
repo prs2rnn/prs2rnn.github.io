@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://prs2rnn.github.io/</loc>
-    <lastmod>2026-03-31T13:53:22+05:00</lastmod>
+    <lastmod>2026-04-17T19:58:26+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -18,7 +18,7 @@
                 />
   </url><url>
     <loc>https://prs2rnn.github.io/now/</loc>
-    <lastmod>2026-04-17T18:44:38+05:00</lastmod>
+    <lastmod>2026-04-17T19:58:26+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -58,12 +58,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://prs2rnn.github.io/en/now/</loc>
-    <lastmod>2026-04-17T19:38:25+05:00</lastmod>
+    <lastmod>2026-04-17T19:58:26+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://prs2rnn.github.io/en/blog/jerking-off/</loc>
+    <lastmod>2026-04-17T19:58:26+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://prs2rnn.github.io/blog/basic/</loc>
-    <lastmod>2026-04-07T16:42:54+05:00</lastmod>
+    <lastmod>2026-04-17T19:58:26+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -77,23 +82,8 @@
                 href="https://prs2rnn.github.io/blog/basic/"
                 />
   </url><url>
-    <loc>https://prs2rnn.github.io/blog/beekeeping/</loc>
-    <lastmod>2026-04-07T16:42:54+05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://prs2rnn.github.io/en/blog/beekeeping/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://prs2rnn.github.io/blog/beekeeping/"
-                />
-  </url><url>
     <loc>https://prs2rnn.github.io/blog/health-jihad/</loc>
-    <lastmod>2026-04-07T16:42:54+05:00</lastmod>
+    <lastmod>2026-04-17T19:58:26+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -107,8 +97,23 @@
                 href="https://prs2rnn.github.io/blog/health-jihad/"
                 />
   </url><url>
+    <loc>https://prs2rnn.github.io/blog/beekeeping/</loc>
+    <lastmod>2026-04-17T19:58:26+05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://prs2rnn.github.io/en/blog/beekeeping/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://prs2rnn.github.io/blog/beekeeping/"
+                />
+  </url><url>
     <loc>https://prs2rnn.github.io/en/blog/honey/</loc>
-    <lastmod>2026-04-07T16:42:54+05:00</lastmod>
+    <lastmod>2026-04-17T19:58:26+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -258,7 +263,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://prs2rnn.github.io/en/</loc>
-    <lastmod>2026-03-31T13:53:22+05:00</lastmod>
+    <lastmod>2026-04-17T19:58:26+05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
