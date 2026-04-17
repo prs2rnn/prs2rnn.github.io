@@ -53,8 +53,17 @@
   {{ end }}
   {{ if .Site.Params.showPostCount }}
   {{ $visiblePages := where .Pages "Params.hidden" "!=" true }}
-  <p id="post-count">There {{ if le (len $visiblePages) 1 }} is {{ len $visiblePages }} piece. {{ else }} are {{ len
-    $visiblePages }} pieces. {{ end }}</p>
+  <p id="post-count">
+    {{ if eq .Lang "ru" }}
+      {{ if le (len $visiblePages) 1 }}
+        Имеется {{ len $visiblePages }} заметка.
+      {{ else }}
+        Всего {{ len $visiblePages }} заметок.
+      {{ end }}
+    {{ else }}
+      There {{ if le (len $visiblePages) 1 }}is {{ len $visiblePages }} piece.{{ else }}are {{ len $visiblePages }} pieces.{{ end }}
+    {{ end }}
+  </p>
   {{ end }}
   <ul class="blog-posts">
     {{ $currentYear := 0 }}

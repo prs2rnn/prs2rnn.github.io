@@ -55,6 +55,7 @@ enableGitInfo = true
         postSearch = true
         toc = true
         imageZoom = true
+        showPostCount = true
 
         [languages.ru.params.footer]
             hideCopyright = false

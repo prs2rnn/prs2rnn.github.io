@@ -604,6 +604,9 @@
         
 
         
+        const countText = `There ${visiblePosts <= 1 ? `is ${visiblePosts} piece.` : `are ${visiblePosts} pieces.`}`;
+        document.getElementById('post-count').innerHTML = countText;
+        
       }
 
       searchInput.addEventListener('input', function () {
@@ -612,6 +615,15 @@
     });
   </script>
   
+  
+  
+  <p id="post-count">
+    
+      
+        Всего 12 заметок.
+      
+    
+  </p>
   
   <ul class="blog-posts">
     
