@@ -11,6 +11,10 @@ enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 
+enableGitInfo = true
+[frontmatter]
+    lastmod = [":git", "lastmod", "date", "publishDate"]
+
 [permalinks]
     blog = "/p/:slug"
     tags = "/blog/:slug"

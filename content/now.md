@@ -10,7 +10,6 @@ menu = "main"
 
 draft = false
 weight = 2
-lastmod = 2026-03-22
 +++
 
 _Inspired by the {{< extlink url="https://nownownow.com/about" text="nownownow.com" >}} movement_
