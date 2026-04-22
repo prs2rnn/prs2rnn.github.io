@@ -10,8 +10,6 @@ tags = ["Basic", "Health Jihad"]
 draft = false
 +++
 
-## Product cart
-
 Food is one of the main bases of health, on par with activity and sleep. In this article, I’ll talk about the food I eat regularly to feel great. My product cart is rather limited because I don’t have much time or the desire to cook often. When it comes to already prepared food, I’m not ready to spend a lot of money on nutrition at this stage of my life. So, here’s what I usually eat, grouped by categories:
 
 - **Protein**: meat, eggs, Greek yogurt
@@ -21,9 +19,7 @@ Food is one of the main bases of health, on par with activity and sleep. In this
 - **Bread**: rye bread
 - **Fats**: melted butter, coconut oil
 
-## Haram‑food
-
-In the next section, I’d like to discuss why I prefer some of the foods listed above. But first, it’s important to mention foods that are bad for human health and explain why. I’ve separated them into categories:
+**Haram‑food**. In the next section, I’d like to discuss why I prefer some of the foods listed above. But first, it’s important to mention foods that are bad for human health and explain why. I’ve separated them into categories:
 
  - **Synthetics** - all processed foods from supermarkets, such as fast food: burgers, hot dogs, chips, sodas, etc.
  - **Trans fats** - an industrial poison that causes many illnesses, like cancer, diabetes, cellulite in women, cardiovascular diseases, digestive problems, and more. This category includes fast food, margarine, semi‑finished products (sausages, frozen cutlets, ham), sweets (chocolates, ice cream), sauces (mayonnaise and ketchup), popcorn, etc.
@@ -31,9 +27,7 @@ In the next section, I’d like to discuss why I prefer some of the foods listed
  - **White bread** - thickens the blood and stays in the stomach for a long time.
  - **Pasteurized milk products** - should be avoided. In my opinion, milk products should be fresh and natural, straight from the hands of farmers.
 
-## Benefits of natural food
-
-I believe that a healthy diet should firstly avoid harmful foods and secondly include the products I’ve mentioned in my food cart. Let’s look at the benefits of these foods:
+I believe that a healthy diet should firstly avoid harmful foods and secondly include the products I’ve mentioned in my food cart. Let’s look at the **benefits** of these foods:
 
 - **Raw onion**. As Jason Statham says, “Meat without raw onion is like going to the bathroom without passing gas.” More importantly, raw onion boosts testosterone and helps digest heavy foods like meat or pizza.
 - **Garlic**. Similar to raw onion, garlic supports digestion and, in my experience, may enhance vitality.
@@ -48,7 +42,5 @@ I believe that a healthy diet should firstly avoid harmful foods and secondly in
 - **Cabbage**. It’s one of the best ways to decrease the level of estradiol.
 - **Mushrooms**, especially those dried in the sun for a couple of days, are rich in vitamin D.
 - **Spices**: salt, pepper, and cloves. They improve breath and enhance the flavour of meals. Cloves, for instance, I use regularly as a natural mouth freshener.
-
-## Conclusion
 
 So, as it seems, some foods can be beneficial for human abilities and health, whereas others may decrease testosterone levels and overall vitality. To tell the truth, sometimes I eat processed foods from the supermarket, sweets, and so on - because I live in a city - but this happens rarely. I don’t think much about the food I eat because it might take up a lot of time. I dislike processed food from supermarkets and prefer not to shop there. When I have the opportunity to afford more than I can now due to financial reasons, I’d like to eat meat from animals, fresh fruits and vegetables, and honey from my own apiary. That’s one of my dreams. I miss living in nature and breathing fresh air.

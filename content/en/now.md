@@ -14,7 +14,7 @@ _Inspired by the {{< extlink url="https://nownownow.com/about" text="nownownow.c
 
 - I'm working as a technical specialist in tire service
 - I'm learning English daily. {{< extlink url="https://cert.efset.org/83Guhq" text="Current level" >}}
-- I'm working out in the gym
+- I'm working out at the gym
 - At the same time, I'm mastering the most common hard skills indicated in the vacancies that interest me
 
 Victory will be ours!
