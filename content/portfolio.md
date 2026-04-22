@@ -13,4 +13,7 @@ tags = ["python", "программирование",]
 draft = false
 weight = 5
 +++
+
+- {{< extlink url="https://github.com/prs2rnn/simplemath" text="SimpleMath" >}} - пакет с простыми математическими функциями, содержащий различные способы их реализации и написанный с использованием встроенной библиотеки Python3
+
 - {{< extlink url="https://github.com/prs2rnn/quickpass" text="QuickPass" >}} - наипростейший генератор паролей с консольным интерфейсом, написанный с использованием встроенной библиотеки Python3
