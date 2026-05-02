@@ -7,7 +7,7 @@ date = "2025-09-01"
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-tags = ["library"]
+tags = ["books",]
 +++
 Ниже представлены книги, которые сильно повлияли на мое мышление
 
