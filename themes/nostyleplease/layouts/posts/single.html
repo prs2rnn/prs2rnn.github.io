@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<article>
+    <h1>{{ .Title }}</h1>
+
+    {{ if .Params.toc }}
+        <aside {{ if .Params.tocBorder }} class="toc" {{ end }}>
+            {{ .TableOfContents }}
+        </aside>
+    {{ end }}
+
+    {{ .Content }}
+    <p>
+        {{ if ne .Date .Lastmod }}
+            Last updated: {{ .Lastmod.Format "2006-01-02" }}
+        {{ end }}
+    </p>
+</article>
+{{ end }}

@@ -1,22 +1,14 @@
-+++
-title = "Now"
-date = "2026-03-08T00:43:21+05:00"
-
-# Set menu to "main" to add this page to the main menu on top of the page
-menu = "main"
-
-# description is optional
-# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
-
-draft = false
-weight = 2
-+++
+---
+title: "Now"
+date: 2026-04-17T19:38:25+05:00
+draft: false
+---
 
 _Inspired by the {{< extlink url="https://nownownow.com/about" text="nownownow.com" >}} movement_
 
-- Работаю техником в шинке
-- Изучаю English ежедневно. {{< extlink url="https://cert.efset.org/83Guhq" text="Текущий уровень" >}}
-- Пашу в качалке
-- Параллельно осваиваю самые распространенные навыки, указанные в интересующих меня вакансиях
+- I'm working as a technical specialist in tire service
+- I'm learning English daily. {{< extlink url="https://cert.efset.org/ocTEnE" text="Current level" >}}
+- I'm working out at the gym
+- At the same time, I'm mastering the most common hard skills indicated in the vacancies that interest me
 
-Победа будет за нами!
+Victory will be ours!

@@ -1,825 +1,106 @@
 <!DOCTYPE html>
-<html lang="ru-ru">
-
-<head>
-  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="shortcut icon" href="https://prs2rnn.github.io/images/favicon.png" />
-<title>Tools I Use | 🕸</title>
-<meta name="title" content="Tools I Use" />
-<meta name="description" content="What I use:
-Hardware
+<html lang="en-US"><head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+   <meta name="description" content="Hardware
 
 Silent PC Modern 14 - C12M
 Silent Mobile Phone Phillips Xenium X170
 
 Software
 
-Windows 10 как основную ОС
-Obsidian для заметок
-Git Bash и Power shell для командных утилит
-Neovim и VSCodium для редактирования текста и кода
-Excel с PowerQuery для работы с данными
-Hugo для блога
-Anki для изучения English
-Torrent для музыки, фильмов и иногда книг
-KeepassXC для хранения паролей
-Gnupg и VeraCrypt для шифрования
-Photoshop CS6 для редактирования изображений
-Firefox и Tor Browser для доступа в интернет
-Python для написания алгоритмов
+Windows 10 as the primary OS
+Obsidian for notes
+Git Bash and Power shell for command-line utilities
+Neovim and VSCodium for text and code editing
+Excel with PowerQuery for working with data
+Hugo for blogging
+Anki for learning English
+Torrent for music, films, and sometimes books
+KeepassXC for storing passwords
+Gnupg and VeraCrypt for encryption
+Photoshop CS6 for image editing
+Firefox and Tor Browser for internet access
 
 Services
 
-GitHub для хостинга
-Алиса GPT как ИИ-ассистент
-" />
-<meta name="keywords" content="программирование," />
-
-<link rel="canonical" href="https://prs2rnn.github.io/uses/">
-
-
-<meta property="og:url" content="https://prs2rnn.github.io/uses/">
-  <meta property="og:site_name" content="🕸">
-  <meta property="og:title" content="Tools I Use">
-  <meta property="og:description" content="What I use: Hardware Silent PC Modern 14 - C12M Silent Mobile Phone Phillips Xenium X170 Software Windows 10 как основную ОС Obsidian для заметок Git Bash и Power shell для командных утилит Neovim и VSCodium для редактирования текста и кода Excel с PowerQuery для работы с данными Hugo для блога Anki для изучения English Torrent для музыки, фильмов и иногда книг KeepassXC для хранения паролей Gnupg и VeraCrypt для шифрования Photoshop CS6 для редактирования изображений Firefox и Tor Browser для доступа в интернет Python для написания алгоритмов Services GitHub для хостинга Алиса GPT как ИИ-ассистент">
-  <meta property="og:locale" content="ru_ru">
-  <meta property="og:type" content="article">
-    <meta property="article:published_time" content="2026-03-11T20:02:11+05:00">
-    <meta property="article:modified_time" content="2026-03-28T23:51:29+05:00">
-    <meta property="article:tag" content="Программирование">
-    <meta property="og:image" content="https://prs2rnn.github.io/images/share.png">
-
-
-
-
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="https://prs2rnn.github.io/images/share.png">
-  <meta name="twitter:title" content="Tools I Use">
-  <meta name="twitter:description" content="What I use: Hardware Silent PC Modern 14 - C12M Silent Mobile Phone Phillips Xenium X170 Software Windows 10 как основную ОС Obsidian для заметок Git Bash и Power shell для командных утилит Neovim и VSCodium для редактирования текста и кода Excel с PowerQuery для работы с данными Hugo для блога Anki для изучения English Torrent для музыки, фильмов и иногда книг KeepassXC для хранения паролей Gnupg и VeraCrypt для шифрования Photoshop CS6 для редактирования изображений Firefox и Tor Browser для доступа в интернет Python для написания алгоритмов Services GitHub для хостинга Алиса GPT как ИИ-ассистент">
-
-
-
-
-  <meta itemprop="name" content="Tools I Use">
-  <meta itemprop="description" content="What I use: Hardware Silent PC Modern 14 - C12M Silent Mobile Phone Phillips Xenium X170 Software Windows 10 как основную ОС Obsidian для заметок Git Bash и Power shell для командных утилит Neovim и VSCodium для редактирования текста и кода Excel с PowerQuery для работы с данными Hugo для блога Anki для изучения English Torrent для музыки, фильмов и иногда книг KeepassXC для хранения паролей Gnupg и VeraCrypt для шифрования Photoshop CS6 для редактирования изображений Firefox и Tor Browser для доступа в интернет Python для написания алгоритмов Services GitHub для хостинга Алиса GPT как ИИ-ассистент">
-  <meta itemprop="datePublished" content="2026-03-11T20:02:11+05:00">
-  <meta itemprop="dateModified" content="2026-03-28T23:51:29+05:00">
-  <meta itemprop="wordCount" content="96">
-  <meta itemprop="image" content="https://prs2rnn.github.io/images/share.png">
-  <meta itemprop="keywords" content="Программирование">
-<meta name="referrer" content="no-referrer-when-downgrade" />
-
-  <style>
-     
-    :root {
-        --width-max: 720px;
-        --font-primary: Verdana, sans-serif;
-        --font-secondary: monospace;
-        --font-size-primary: 1em;
-        --font-size-secondary: 0.8em;
-        --bg-color-primary: #fdfdfd;
-        --bg-color-secondary: #f2f4f7;
-        --text-color-primary: #1a1a1a;
-        --text-color-secondary: #444;
-        --text-color-tertiary: #8c8c8c;
-        --link-color: #0066cc;
-        --link-visited-color: #551a8b;
-        --border-color: #d0d7de;
-        --upvoted-color: #fa8072;
-    }
-
-    @media (prefers-color-scheme: dark) {
-         
-        :root {
-            --bg-color-primary: #121212;
-            --bg-color-secondary: #1c1f24;
-            --text-color-primary: #e5e5e5;
-            --text-color-secondary: #b3b3b7;
-            --text-color-tertiary: #a0a0a0;
-            --link-color: #6da6ff;
-            --link-visited-color: #b388ff;
-            --border-color: #30363d;
-            --upvoted-color: #ff6b6b;
-        }
-    }
-
-    body {
-        font-family: var(--font-primary);
-        font-size: var(--font-size-primary);
-        margin: auto;
-        padding: 20px;
-        max-width: var(--width-max);
-        text-align: left;
-        background-color: var(--bg-color-primary);
-        word-wrap: break-word;
-        overflow-wrap: break-word;
-        line-height: 1.5;
-        color: var(--text-color-primary);
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6,
-    strong,
-    b {
-        color: var(--text-color-primary);
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-        margin: 16px 0;
-    }
-
-    a {
-        color: var(--link-color);
-        cursor: pointer;
-        text-decoration: none;
-    }
-
-    a:hover {
-        text-decoration: underline;
-    }
-
-    .title {
-        text-decoration: none;
-        border: 0;
-    }
-
-    .title:hover {
-        text-decoration: none;
-    }
-
-    .title span {
-        font-weight: 400;
-    }
-
-    nav a {
-        margin-right: 8px;
-    }
-
-    textarea {
-        width: 100%;
-        font-size: 16px;
-    }
-
-    input {
-        font-size: 14px;
-    }
-
-    content {
-        line-height: 1.6;
-    }
-
-    table {
-        width: 100%;
-        border-collapse: collapse;
-        border: 1px solid var(--border-color);
-        border-radius: 4px;
-    }
-
-    th,
-    td {
-        border: 1px solid var(--border-color);
-        padding: 4px;
-    }
-
-    th {
-        background-color: var(--bg-color-secondary);
-    }
-
-    hr {
-        border: 0;
-        border-top: 1px dashed;
-    }
-
-    img {
-        max-width: 100%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        border: 1px solid var(--border-color);
-        border-radius: 4px;
-        content-visibility: auto;
-    }
-
-    img[src*="#minipic"] {
-        max-width: 50%;
-        margin-left: 0;
-        margin-right: auto;
-    }
-
-    .image-caption figcaption {
-        text-align: center;
-        font-style: italic;
-        font-size: 0.8em;
-        margin-top: 0.6em;
-        color: var(--text-color-secondary);
-    }
-
-    .image-caption {
-        margin: auto;
-    }
-
-    i {
-        font-style: normal;
-    }
-
-    time {
-        font-family: var(--font-secondary);
-        font-size: 15px;
-    }
-
-    code {
-        font-family: var(--font-secondary);
-        background-color: var(--bg-color-secondary);
-        padding: 2px;
-        border-radius: 4px;
-    }
-
-    pre code {
-        display: block;
-        padding: 16px;
-        white-space: pre-wrap;
-        overflow-x: auto;
-    }
-
-    div.highlight pre {
-        border-radius: 4px;
-    }
-
-    div.highlight code {
-        background-color: var(--bg-color-secondary);
-    }
-
-    blockquote {
-        border-left: 4px solid var(--border-color);
-        color: var(--text-color-secondary);
-        margin: 0;
-        padding-left: 8px;
-        font-style: normal;
-    }
-
-    blockquote p {
-        margin: 0;
-    }
-
-    footer {
-        padding: 25px 0;
-        text-align: center;
-        font-size: var(--font-size-secondary);
-    }
-
-    ul li:has(input) {
-        list-style-type: none;
-        margin-left: -25.5px;
-    }
-
-     
-    ul.blog-posts {
-        list-style-type: none;
-        padding: unset;
-    }
-
-    ul.blog-posts li {
-        display: flex;
-    }
-
-    ul.blog-posts li span {
-        flex: 0 0 130px;
-    }
-
-    ul.blog-posts li span.grouped {
-        flex: 0 0 80px;
-    }
-
-    ul.blog-posts li a:visited {
-        color: var(--link-visited-color);
-    }
-
-     
-    div.toc {
-        position: fixed;  
-        top: 50%;  
-        left: calc(
-            (100vw + var(--width-max)) / 2
-        );  
-        transform: translateY(-50%);  
-        width: calc((90vw - var(--width-max)) / 2);  
-        max-height: 80vh;  
-        overflow-y: auto;  
-        border: none;  
-        padding: 0;  
-        margin: 0;  
-        z-index: 99;  
-
-         
-        -ms-overflow-style: none;  
-        scrollbar-width: none;  
-    }
-
-    div.toc::-webkit-scrollbar {
-         
-        display: none;  
-    }
-
-    .toc-nav {
-         
-        padding: 1.5rem;  
-    }
-
-    .toc-nav ul {
-         
-        list-style: none;  
-        padding: 0;  
-        margin: 0;  
-    }
-
-    .toc-nav li {
-         
-        margin: 8px 0;  
-    }
-
-    .toc-nav a {
-         
-        display: block;  
-        text-decoration: none;  
-        color: transparent;  
-        padding: 0 12px;  
-        transition: all 0.2s ease;  
-        font-size: 0.9rem;  
-        line-height: 1.4;  
-        text-align: left;  
-        white-space: nowrap;  
-        overflow: hidden;  
-        text-overflow: ellipsis;  
-        max-width: 100%;  
-    }
-
-    .toc-nav:hover a {
-        color: var(--text-color-tertiary);  
-    }
-
-    .toc-nav a::before {
-         
-        content: "";  
-        display: inline-block;  
-        width: 16px;  
-        height: 4px;  
-        background-color: var(--text-color-tertiary);
-        border-radius: 16px;  
-        margin-right: 12px;  
-        vertical-align: middle;  
-    }
-
-    .toc-nav ul ul a::before {
-         
-        width: 12px;  
-        margin-right: 16px;  
-    }
-
-    .toc-nav ul ul ul a::before {
-         
-        width: 8px;  
-        margin-right: 20px;  
-    }
-
-    .toc-nav a.active,
-    .toc-nav a:hover {
-        text-decoration: none;
-        color: var(--text-color-primary);
-    }
-
-    .toc-nav a.active::before,
-    .toc-nav a:hover::before {
-        background-color: var(--text-color-primary);
-    }
-
-     
-    button.upvote-btn {
-        margin: 0;
-        padding: 0;
-        border: none;
-        background: none;
-        cursor: pointer;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        color: var(--text-color-primary);
-    }
-
-    button.upvoted {
-        color: var(--upvoted-color);
-    }
-
-    span.upvote-count {
-        margin-top: -4px;
-        font-size: smaller;
-    }
-
-     
-    body:has(.image-zoom-toggle:checked) {
-        overflow: hidden;
-    }
-
-    .image-zoom-container {
-        position: relative;
-        display: block;
-    }
-
-    .image-zoom-toggle {
-        display: none;
-    }
-
-    .image-zoom-label {
-        cursor: zoom-in;
-        display: block;
-        position: relative;
-    }
-
-    .image-zoom-label:focus {
-        outline: 2px solid var(--link-color);
-        outline-offset: 2px;
-    }
-
-    .zoomable-image {
-        transition: transform 0.3s ease;
-    }
-
-     
-    .image-zoom-overlay {
-        display: none;
-        position: fixed;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        background: rgba(0, 0, 0, 0.9);
-        z-index: 1000;
-        align-items: center;
-        justify-content: center;
-        padding: 20px;
-        margin: 0;
-    }
-
-    .image-zoom-toggle:checked ~ .image-zoom-overlay {
-        display: flex;
-        cursor: zoom-out;
-    }
-
-     
-    .image-zoom-toggle:checked ~ .image-zoom-label {
-        cursor: default;
-    }
-
-    .image-zoom-toggle:checked ~ .image-zoom-overlay .zoomable-image {
-        max-width: 90vw;
-        max-height: 90vh;
-        width: auto;
-        height: auto;
-        transform: scale(1);
-        border: none;
-        border-radius: 8px;
-        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-        margin-left: auto !important;
-        margin-right: auto !important;
-    }
-
-    .image-zoom-toggle:checked ~ .image-zoom-overlay::before {
-        content: "";
-        position: absolute;
-        top: 20px;
-        right: 20px;
-        width: 32px;
-        height: 32px;
-        background: rgba(255, 255, 255, 0.9);
-        border-radius: 50%;
-        cursor: pointer;
-        z-index: 1001;
-    }
-
-    .image-zoom-toggle:checked ~ .image-zoom-overlay::after {
-        content: "✕";
-        position: absolute;
-        top: 20px;
-        right: 20px;
-        width: 32px;
-        height: 32px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-size: 18px;
-        font-weight: bold;
-        color: #000;
-        cursor: pointer;
-        z-index: 1002;
-    }
-
-    .image-zoom-toggle:checked ~ .image-zoom-overlay figcaption {
-        position: fixed;
-        bottom: 20px;
-        left: 50%;
-        transform: translateX(-50%);
-        background: rgba(0, 0, 0, 0.8);
-        color: white;
-        padding: 8px 16px;
-        border-radius: 4px;
-        font-size: 14px;
-        z-index: 1001;
-        max-width: 80vw;
-        text-align: center;
-    }
-
-     
-    @media (max-width: 800px) {
-        img[src*="#minipic"] {
-            max-width: 100%;
-            margin-left: auto;
-            margin-right: auto;
-        }
-
-        div.toc {
-            display: none;
-        }
-
-        .image-zoom-label {
-            cursor: pointer;
-        }
-
-        .image-zoom-toggle:checked ~ .image-zoom-overlay {
-            padding: 10px;
-        }
-
-        .image-zoom-toggle:checked ~ .image-zoom-overlay::before,
-        .image-zoom-toggle:checked ~ .image-zoom-overlay::after {
-            top: 10px;
-            right: 10px;
-            width: 28px;
-            height: 28px;
-            font-size: 16px;
-        }
-
-        .image-zoom-toggle:checked ~ .image-zoom-overlay figcaption {
-            bottom: 10px;
-            font-size: 12px;
-            padding: 6px 12px;
-        }
-    }
-</style>
-
+GitHub for hosting
+Alice GPT as an AI assistant
+">  
+
+  <title>
+    
+      What I Use
+    
+  </title>
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" />
+  
+  
+  
+  <link rel="stylesheet" href="/css/main.51652302d3a998bf7887aed5c2cf89141bbebdf45a2c8f87b0717a3cf4f51c4e53c694c328fb1de78c3a625a1c01f80745bf1f2f42c040647a245cbbb6c2d1d7.css" integrity="sha512-UWUjAtOpmL94h67Vws&#43;JFBu&#43;vfRaLI&#43;HsHF6PPT1HE5TxpTDKPsd54w6YlocAfgHRb8fL0LAQGR6JFy7tsLR1w==" />
+  
 </head>
-
-<body>
-  <header><a href="/" class="title">
-  <h2>🕸</h2>
-</a>
-<nav>
-<a href="/">Главная</a>
-
-<a href="/now/">Now</a>
-
-<a href="/blog/">Заметки</a>
-
-<a href="/uses/">Tools I Use</a>
-
-<a href="/portfolio/">Разработка</a>
-
-<a href="/en/">En</a>
+<body a="auto">
+        <main class="page-content" aria-label="Content">
+            <div class="w">
+<a href="/">..</a>
 
 
+<article>
+    <p class="post-meta">
+        <time datetime="2026-03-11 20:02:11 &#43;0500 &#43;05">
+            2026-03-11
+        </time>
+    </p>
 
-</nav>
-</header>
-  <main>
+    <h1>What I Use</h1>
 
+    
 
-<content> <h1 id="what-i-use">What I use:</h1>
-<h2 id="hardware">Hardware</h2>
+    <h2 id="hardware">Hardware</h2>
 <ul>
 <li>Silent PC <strong>Modern 14</strong> - C12M</li>
 <li>Silent Mobile Phone <strong>Phillips Xenium X170</strong></li>
 </ul>
 <h2 id="software">Software</h2>
 <ul>
-<li><strong>Windows 10</strong> как основную ОС</li>
-<li><strong>Obsidian</strong> для заметок</li>
-<li><strong>Git Bash</strong> и <strong>Power shell</strong> для командных утилит</li>
-<li><strong>Neovim</strong> и <strong>VSCodium</strong> для редактирования текста и кода</li>
-<li><strong>Excel</strong> с <strong>PowerQuery</strong> для работы с данными</li>
-<li><strong>Hugo</strong> для блога</li>
-<li><strong>Anki</strong> для изучения English</li>
-<li><strong>Torrent</strong> для <a href="/p/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8/">музыки</a>, <a href="/p/%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%B5%D0%BD%D1%8C-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2/">фильмов</a> и иногда <a href="/p/%D0%BA%D0%BD%D0%B8%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BB%D0%BA%D0%B0/">книг</a></li>
-<li><strong>KeepassXC</strong> для хранения паролей</li>
-<li><strong>Gnupg</strong> и <strong>VeraCrypt</strong> для шифрования</li>
-<li><strong>Photoshop CS6</strong> для редактирования изображений</li>
-<li><strong>Firefox</strong> и <strong>Tor Browser</strong> для доступа в интернет</li>
-<li><strong>Python</strong> для написания алгоритмов</li>
+<li><strong>Windows 10</strong> as the primary OS</li>
+<li><strong>Obsidian</strong> for notes</li>
+<li><strong>Git Bash</strong> and <strong>Power shell</strong> for command-line utilities</li>
+<li><strong>Neovim</strong> and <strong>VSCodium</strong> for text and code editing</li>
+<li><strong>Excel</strong> with <strong>PowerQuery</strong> for working with data</li>
+<li><strong>Hugo</strong> for blogging</li>
+<li><strong>Anki</strong> for learning English</li>
+<li><strong>Torrent</strong> for music, films, and sometimes books</li>
+<li><strong>KeepassXC</strong> for storing passwords</li>
+<li><strong>Gnupg</strong> and <strong>VeraCrypt</strong> for encryption</li>
+<li><strong>Photoshop CS6</strong> for image editing</li>
+<li><strong>Firefox</strong> and <strong>Tor Browser</strong> for internet access</li>
 </ul>
 <h2 id="services">Services</h2>
 <ul>
-<li><strong>GitHub</strong> для хостинга</li>
-<li><strong>Алиса GPT</strong> как ИИ-ассистент</li>
+<li><strong>GitHub</strong> for hosting</li>
+<li><strong>Alice GPT</strong> as an AI assistant</li>
 </ul>
- </content>
 
-<p>
-  
-    Последнее обновление: 28.03.2026 23:51 &#43;05
-  
-</p>
-
-<p>
-  
-  <a href="https://prs2rnn.github.io/blog/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/">#Программирование</a>
-  
-</p>
-
-
-
-
-
-
-
-<div class="toc">
-
-
-<aside class="toc-nav" role="navigation" aria-label="目录">
-  <nav id="TableOfContents">
-  <ul>
-    <li><a href="#hardware">Hardware</a></li>
-    <li><a href="#software">Software</a></li>
-    <li><a href="#services">Services</a></li>
-  </ul>
-</nav>
-</aside>
-
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-    const tocNav = document.querySelector('.toc-nav');
-    if (!tocNav) return;
-
-    const tocLinks = Array.from(tocNav.querySelectorAll('a'));
-    if (!tocLinks.length) return;
-
-    
-    const idToLink = new Map();
-    const headings = [];
-    const seen = new Set();
-
-    for (const link of tocLinks) {
-        const hash = link.hash || link.getAttribute('href');
-        if (!hash || hash.charAt(0) !== '#') continue;
-        const id = decodeURIComponent(hash.slice(1));
-        idToLink.set(id, link);
-
-        if (!seen.has(id)) {
-            const h = document.getElementById(id);
-            if (h) {
-                headings.push(h);
-                seen.add(id);
-            }
-        }
-    }
-
-    if (!headings.length) return;
-
-    const OFFSET = 100; 
-
-    
-    let currentActive = null;
-    let currentChain = [];
-
-    function buildChainFromLink(link) {
-        const chain = [];
-        if (!link) return chain;
-        chain.push(link);
-        let li = link.closest('li');
-        while (li) {
-            const parentLi = li.parentElement ? li.parentElement.closest('li') : null;
-            if (parentLi) {
-                const parentLink = parentLi.querySelector('a');
-                if (parentLink) chain.push(parentLink);
-            }
-            li = parentLi;
-        }
-        return chain;
-    }
-
-    function applyActiveChain(newLink) {
-        if (newLink === currentActive) return;
-        const newChain = buildChainFromLink(newLink);
-
+    <p>
         
-        for (const el of currentChain) {
-            if (!newChain.includes(el)) el.classList.remove('active');
-        }
+            Last updated: 2026-03-28
         
-        for (const el of newChain) {
-            if (!el.classList.contains('active')) el.classList.add('active');
-        }
+    </p>
+</article>
 
-        currentActive = newLink || null;
-        currentChain = newChain;
-    }
-
+                
     
-    tocNav.addEventListener('click', function (e) {
-        const link = e.target.closest('a');
-        if (!link || !tocNav.contains(link)) return;
-
-        const hash = link.hash || link.getAttribute('href');
-        if (!hash || hash.charAt(0) !== '#') return;
-
-        const id = decodeURIComponent(hash.slice(1));
-        const target = document.getElementById(id);
-        if (!target) return;
-
-        e.preventDefault();
-
-        const reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-        target.scrollIntoView({
-            behavior: reduceMotion ? 'auto' : 'smooth',
-            block: 'start'
-        });
-
-        
-        applyActiveChain(link);
-    });
-
     
-    function updateActiveLink() {
-        let linkToActivate = null;
-        for (let i = headings.length - 1; i >= 0; i--) {
-            const top = headings[i].getBoundingClientRect().top;
-            if (top <= OFFSET) {
-                linkToActivate = idToLink.get(headings[i].id) || null;
-                break;
-            }
-        }
-        applyActiveChain(linkToActivate);
-    }
-
-    
-    let ticking = false;
-    function onScrollOrResize() {
-        if (!ticking) {
-            requestAnimationFrame(function () {
-                updateActiveLink();
-                ticking = false;
-            });
-            ticking = true;
-        }
-    }
-
-    window.addEventListener('scroll', onScrollOrResize, { passive: true });
-    window.addEventListener('resize', onScrollOrResize, { passive: true });
-
-    
-    updateActiveLink();
-});
-</script>
-
-
-</div>
-
-
-
-  </main>
-  <footer>
-
-
-
-
-Subscribe via <a href="/index.xml">RSS</a>.
-<br />
-
-
-
-
-
-
-
-
-
-
-Copyright © 2026, prs2rnn.
-
-
-🗺️ <a href="/sitemap.xml">Sitemap</a>.
-
-</footer>
-
+        Copyright © 2026, Andrey Perestoronin
     
 
 
-</body>
-
+            </div>
+        </main>
+    </body>
 </html>

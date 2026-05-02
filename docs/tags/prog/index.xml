@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prog on My Blog</title>
+    <link>https://prs2rnn.github.io/tags/prog/</link>
+    <description>Recent content in Prog on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 02 Apr 2026 23:49:32 +0500</lastBuildDate>
+    <atom:link href="https://prs2rnn.github.io/tags/prog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://prs2rnn.github.io/projects/</link>
+      <pubDate>Thu, 02 Apr 2026 23:49:32 +0500</pubDate>
+      <guid>https://prs2rnn.github.io/projects/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/prs2rnn/simplemath&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SimpleMath&lt;/a&gt; - a package with simple mathematical functions, containing various implementation methods and written using the built-in Python3 library&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/prs2rnn/quickpass&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;QuickPass&lt;/a&gt; - the simplest password generator with a console interface, written using the built-in Python3 library&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>What I Use</title>
+      <link>https://prs2rnn.github.io/uses/</link>
+      <pubDate>Wed, 11 Mar 2026 20:02:11 +0500</pubDate>
+      <guid>https://prs2rnn.github.io/uses/</guid>
+      <description>&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Silent PC &lt;strong&gt;Modern 14&lt;/strong&gt; - C12M&lt;/li&gt;&#xA;&lt;li&gt;Silent Mobile Phone &lt;strong&gt;Phillips Xenium X170&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Windows 10&lt;/strong&gt; as the primary OS&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Obsidian&lt;/strong&gt; for notes&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Git Bash&lt;/strong&gt; and &lt;strong&gt;Power shell&lt;/strong&gt; for command-line utilities&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Neovim&lt;/strong&gt; and &lt;strong&gt;VSCodium&lt;/strong&gt; for text and code editing&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Excel&lt;/strong&gt; with &lt;strong&gt;PowerQuery&lt;/strong&gt; for working with data&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt; for blogging&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Anki&lt;/strong&gt; for learning English&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Torrent&lt;/strong&gt; for music, films, and sometimes books&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;KeepassXC&lt;/strong&gt; for storing passwords&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gnupg&lt;/strong&gt; and &lt;strong&gt;VeraCrypt&lt;/strong&gt; for encryption&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Photoshop CS6&lt;/strong&gt; for image editing&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Firefox&lt;/strong&gt; and &lt;strong&gt;Tor Browser&lt;/strong&gt; for internet access&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt; for hosting&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Alice GPT&lt;/strong&gt; as an AI assistant&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
