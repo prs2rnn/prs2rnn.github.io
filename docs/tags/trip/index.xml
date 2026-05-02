@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trip on My Blog</title>
+    <link>https://prs2rnn.github.io/tags/trip/</link>
+    <description>Recent content in Trip on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 10 Oct 2024 00:26:43 +0500</lastBuildDate>
+    <atom:link href="https://prs2rnn.github.io/tags/trip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trip 1 - Saint-Petersburg</title>
+      <link>https://prs2rnn.github.io/posts/trip-1-saint-petersburg/</link>
+      <pubDate>Thu, 10 Oct 2024 00:26:43 +0500</pubDate>
+      <guid>https://prs2rnn.github.io/posts/trip-1-saint-petersburg/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://prs2rnn.github.io/posts/spb1.jpg&#34; alt=&#34;&#34;&gt;&#xA;City Institutions House&#xA;&lt;img src=&#34;https://prs2rnn.github.io/posts/spb2.jpg&#34; alt=&#34;&#34;&gt;&#xA;Palace Square&#xA;&lt;img src=&#34;https://prs2rnn.github.io/posts/spb3.jpg&#34; alt=&#34;&#34;&gt;&#xA;Hermitage&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

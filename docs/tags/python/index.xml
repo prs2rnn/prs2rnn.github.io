@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on My Blog</title>
+    <link>https://prs2rnn.github.io/tags/python/</link>
+    <description>Recent content in Python on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 02 Apr 2026 23:49:32 +0500</lastBuildDate>
+    <atom:link href="https://prs2rnn.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://prs2rnn.github.io/projects/</link>
+      <pubDate>Thu, 02 Apr 2026 23:49:32 +0500</pubDate>
+      <guid>https://prs2rnn.github.io/projects/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/prs2rnn/simplemath&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SimpleMath&lt;/a&gt; - a package with simple mathematical functions, containing various implementation methods and written using the built-in Python3 library&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/prs2rnn/quickpass&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;QuickPass&lt;/a&gt; - the simplest password generator with a console interface, written using the built-in Python3 library&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Асинхронность как основной подход к разработке высоконагруженных приложений</title>
+      <link>https://prs2rnn.github.io/ru-posts/async-prog/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://prs2rnn.github.io/ru-posts/async-prog/</guid>
+      <description>&lt;p&gt;В данной статье освещаются основные подходы к современной разработке высоконагруженных приложений, в частности, предоставляющие основной интерфейс для взаимодействия с пользователем при помощи браузера или иного клиента, в функционал которого заложена отправка http запросов к серверу.&lt;/p&gt;&#xA;&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;&#xA;&lt;p&gt;Понятие высоконагруженного приложения можно интерпретировать как любое приложение или сервис, обслуживающий большое количество одновременных запросов. Результатом данного события является значительная нагрузка на системные ресурсы, такие как использование процессора, потребление памяти, пропускная способность сети и т.д. В соответствии с этими ограничениями возникает вопрос: как обеспечить эффективную и надежную работу при высоких нагрузках?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

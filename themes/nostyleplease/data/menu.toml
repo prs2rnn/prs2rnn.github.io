@@ -1,0 +1,49 @@
+[[entries]]
+title = "Info"
+  [[entries.entries]]
+  title = "Now"
+  url = "now"
+
+  [[entries.entries]]
+  title = "Projects"
+  url = "projects"
+
+  [[entries.entries]]
+  title = "CV"
+  url = "cv"
+
+  [[entries.entries]]
+  title = "Tools I Use"
+  url = "uses"
+
+[[entries]]
+title = "Contacts"
+
+  [[entries.entries]]
+  title = "email: developer [dot] prs2rnn [at] gmail [dot] com"
+
+  [[entries.entries]]
+  title = "jabber: 2nc7k [at] xmpp [dot] jp"
+
+  [[entries.entries]]
+  title = "gpg key"
+  url = "https://keys.openpgp.org/vks/v1/by-fingerprint/452304BDA1BA717DF84EA50E421CA9513DBCAD80"
+
+
+[[entries]]
+title = "Posts"
+
+  [entries.post_list]
+  section = "posts"
+  limit = 5
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "Ru"
+url = "ru-posts"
+
+[[entries]]
+title = "rss"
+url = "index.xml"
