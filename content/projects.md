@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2026-04-02T23:49:32+05:00
-tags: ["python", "prog",]
+tags: ["python", "programming",]
 draft: false
 ---
 

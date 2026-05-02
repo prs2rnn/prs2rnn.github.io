@@ -7,7 +7,7 @@ date = "2024-06-01"
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-tags = ["джихад здоровья"]
+tags = ["health jihad"]
 +++
 
 Во-первых, **что такое прыщи?** Это воспаление узелков, выводящих дерьмо. Иными словами, это означает, что все дерьмо выходит из организма слишком концентрировано.

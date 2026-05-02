@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Заметки on My Blog</title>
+    <title>Заметки on Andrey Perestoronin&#39;s Blog</title>
     <link>https://prs2rnn.github.io/ru-posts/</link>
-    <description>Recent content in Заметки on My Blog</description>
+    <description>Recent content in Заметки on Andrey Perestoronin&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 07 Mar 2026 11:57:30 +0500</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 07:31:59 +0500</lastBuildDate>
     <atom:link href="https://prs2rnn.github.io/ru-posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Музыкальные композиции</title>

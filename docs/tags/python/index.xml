@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on My Blog</title>
+    <title>Python on Andrey Perestoronin&#39;s Blog</title>
     <link>https://prs2rnn.github.io/tags/python/</link>
-    <description>Recent content in Python on My Blog</description>
+    <description>Recent content in Python on Andrey Perestoronin&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 02 Apr 2026 23:49:32 +0500</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 07:31:59 +0500</lastBuildDate>
     <atom:link href="https://prs2rnn.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>

@@ -1,7 +1,7 @@
 ---
 title: "The Power of Honey"
 date: 2026-04-07T09:47:53+05:00
-tags: ["basic","health jihad", "beekeeping" ]
+tags: ["health jihad", "beekeeping" ]
 draft: false
 ---
 

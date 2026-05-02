@@ -1,22 +1,28 @@
 baseURL = "https://prs2rnn.github.io/"
 theme = "nostyleplease"
-title = "My Blog"
+title = "Andrey Perestoronin's Blog"
 languageCode = "en-US"
 publishDir = "docs"
 
 enableGitInfo = true
 [frontmatter]
-    lastmod = [":git", "lastmod", "date", "publishDate"]
+  lastmod = [":git", "lastmod", "date", "publishDate"]
+  date = "date"
 
-[minify]
-    disableHTML = false
-    disableCSS = false
-    disableJS = false
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 [sitemap]
     changefreq = 'monthly'
     priority = 0.5
     filename = 'sitemap.xml'
+    [sitemap.homepage]
+        changefreq = "weekly"
+        priority = 1.0
+    [sitemap.posts]
+        changefreq = "daily"
+        priority = 0.8
 
 [permalinks]
   posts = "/posts/:slug/"
@@ -25,3 +31,21 @@ enableGitInfo = true
 [params]
     favicon = "images/favicon.png"
     images = ["images/share.png"]
+    description = "Personal Blog"
+    [params.author]
+    name = "Andrey Perestoronin"
+    # email = "example@example.com"
+
+[rss]
+  limit = 20
+  contentLimit = 200
+  enableRss = true
+
+enableRobotsTXT = true
+[minify]
+    disableHTML = false
+    disableCSS = false
+    disableJS = false
+[cache]
+  [cache.assets]
+    maxAge = 31536000  # кэширование на год

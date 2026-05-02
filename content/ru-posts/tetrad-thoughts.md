@@ -7,7 +7,7 @@ date = "2026-03-06T21:38:47+05:00"
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-tags = ["база"]
+tags = ["base"]
 +++
 
 >Здесь идет речь о таких вещах, как **личная ответственность** и **принцип агрессии**

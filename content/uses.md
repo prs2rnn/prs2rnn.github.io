@@ -2,7 +2,7 @@
 title: "What I Use"
 date: 2026-03-11T20:02:11+05:00
 draft: false
-tags: ["prog",]
+tags: ["programming",]
 ---
 
 ## Hardware

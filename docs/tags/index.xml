@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My Blog</title>
+    <title>Tags on Andrey Perestoronin&#39;s Blog</title>
     <link>https://prs2rnn.github.io/tags/</link>
-    <description>Recent content in Tags on My Blog</description>
+    <description>Recent content in Tags on Andrey Perestoronin&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 21 Apr 2026 20:47:05 +0500</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 07:31:59 +0500</lastBuildDate>
     <atom:link href="https://prs2rnn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>English</title>
       <link>https://prs2rnn.github.io/tags/english/</link>
       <pubDate>Tue, 21 Apr 2026 20:47:05 +0500</pubDate>
       <guid>https://prs2rnn.github.io/tags/english/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Basic</title>
-      <link>https://prs2rnn.github.io/tags/basic/</link>
-      <pubDate>Tue, 07 Apr 2026 09:47:53 +0500</pubDate>
-      <guid>https://prs2rnn.github.io/tags/basic/</guid>
       <description></description>
     </item>
     <item>
@@ -37,10 +30,10 @@
       <description></description>
     </item>
     <item>
-      <title>Prog</title>
-      <link>https://prs2rnn.github.io/tags/prog/</link>
+      <title>Programming</title>
+      <link>https://prs2rnn.github.io/tags/programming/</link>
       <pubDate>Thu, 02 Apr 2026 23:49:32 +0500</pubDate>
-      <guid>https://prs2rnn.github.io/tags/prog/</guid>
+      <guid>https://prs2rnn.github.io/tags/programming/</guid>
       <description></description>
     </item>
     <item>
@@ -51,38 +44,31 @@
       <description></description>
     </item>
     <item>
-      <title>Музыка</title>
-      <link>https://prs2rnn.github.io/tags/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/</link>
+      <title>Music</title>
+      <link>https://prs2rnn.github.io/tags/music/</link>
       <pubDate>Sat, 07 Mar 2026 11:57:30 +0500</pubDate>
-      <guid>https://prs2rnn.github.io/tags/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/</guid>
+      <guid>https://prs2rnn.github.io/tags/music/</guid>
       <description></description>
     </item>
     <item>
-      <title>База</title>
-      <link>https://prs2rnn.github.io/tags/%D0%B1%D0%B0%D0%B7%D0%B0/</link>
+      <title>Base</title>
+      <link>https://prs2rnn.github.io/tags/base/</link>
       <pubDate>Fri, 06 Mar 2026 21:38:47 +0500</pubDate>
-      <guid>https://prs2rnn.github.io/tags/%D0%B1%D0%B0%D0%B7%D0%B0/</guid>
+      <guid>https://prs2rnn.github.io/tags/base/</guid>
       <description></description>
     </item>
     <item>
-      <title>Джихад Здоровья</title>
-      <link>https://prs2rnn.github.io/tags/%D0%B4%D0%B6%D0%B8%D1%85%D0%B0%D0%B4-%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D1%8F/</link>
-      <pubDate>Wed, 10 Dec 2025 23:19:25 +0500</pubDate>
-      <guid>https://prs2rnn.github.io/tags/%D0%B4%D0%B6%D0%B8%D1%85%D0%B0%D0%B4-%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D1%8F/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Книги</title>
-      <link>https://prs2rnn.github.io/tags/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/</link>
+      <title>Library</title>
+      <link>https://prs2rnn.github.io/tags/library/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://prs2rnn.github.io/tags/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/</guid>
+      <guid>https://prs2rnn.github.io/tags/library/</guid>
       <description></description>
     </item>
     <item>
-      <title>Фильмы</title>
-      <link>https://prs2rnn.github.io/tags/%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B/</link>
+      <title>Movie</title>
+      <link>https://prs2rnn.github.io/tags/movie/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://prs2rnn.github.io/tags/%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B/</guid>
+      <guid>https://prs2rnn.github.io/tags/movie/</guid>
       <description></description>
     </item>
     <item>
@@ -90,13 +76,6 @@
       <link>https://prs2rnn.github.io/tags/trip/</link>
       <pubDate>Thu, 10 Oct 2024 00:26:43 +0500</pubDate>
       <guid>https://prs2rnn.github.io/tags/trip/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Программирование</title>
-      <link>https://prs2rnn.github.io/tags/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</link>
-      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://prs2rnn.github.io/tags/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</guid>
       <description></description>
     </item>
   </channel>

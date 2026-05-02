@@ -6,7 +6,7 @@ date = "2025-12-10T23:19:25+05:00"
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-tags = ["джихад здоровья",]
+tags = ["health jihad",]
 draft = false
 +++
 
