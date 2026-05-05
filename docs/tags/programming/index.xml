@@ -6,14 +6,14 @@
     <description>Recent content in Programming on Andrey Perestoronin&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 May 2026 04:40:12 +0500</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 00:26:33 +0500</lastBuildDate>
     <atom:link href="https://prs2rnn.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
       <link>https://prs2rnn.github.io/projects/</link>
       <pubDate>Thu, 02 Apr 2026 23:49:32 +0500</pubDate>
       <guid>https://prs2rnn.github.io/projects/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Bots:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/prs2rnn/my_business_card_bot&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MyBusinessCardBot&lt;/a&gt; - a simple and extensible Telegram bot that acts as a digital business card, written using the aiogram framework for Telegram Bot API&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Packages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/prs2rnn/simplemath&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SimpleMath&lt;/a&gt; - a package with simple mathematical functions, containing various implementation methods and written using the built-in Python3 library&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Command line:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/prs2rnn/quickpass&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;QuickPass&lt;/a&gt; - the simplest password generator with a console interface, written using the built-in Python3 library&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Bots:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/prs2rnn/my_business_card_bot&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MyBusinessCardBot&lt;/a&gt; - an extensible bot that acts as a digital business card, written using the aiogram framework for Telegram Bot API&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Packages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/prs2rnn/simplemath&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;SimpleMath&lt;/a&gt; - a package with mathematical functions, containing various implementation methods and written using the built-in Python3 library&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Command line:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/prs2rnn/quickpass&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;QuickPass&lt;/a&gt; - the simplest password generator with a console interface, written using the built-in Python3 library&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>What I Use</title>
