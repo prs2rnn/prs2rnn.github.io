@@ -2,6 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
+description: What I'm currently working on, learning, and focusing on.
 ---
 
 Currently working as a technical specialist in a tire service while continuing to grow as a software developer.
