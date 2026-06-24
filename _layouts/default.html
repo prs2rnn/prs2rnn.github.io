@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      {% if page.title %} {{ site.title }} - {{ page.title }} {% else %} {{
+      site.title }} {% endif %}
+    </title>
+    <link rel="stylesheet" href="/assets/css/bootstrap-reboot.min.css" />
+    <link rel="stylesheet" href="/assets/css/style.css" />
+    <script
+      defer
+      src="https://cloud.umami.is/script.js"
+      data-website-id="3d4e6f9f-84c3-474e-a376-071e1bbdaa76"
+    ></script>
+  </head>
+  <body>
+    <main class="content">{{ content }}</main>
+  </body>
+</html>
