@@ -1,6 +1,8 @@
 <title>
-  {% if page.title %} {{ site.title }} - {{ page.title }} {% else %} {{
-  site.title }} {% endif %}
+  {% if page.title %} {% if page.lang == 'ru' %} {{ site.title_ru }} - {{
+  page.title }} {% else %} {{ site.title }} - {{ page.title }} {% endif %} {%
+  else %} {% if page.lang == 'ru' %} {{ site.title_ru }} - {{ page.title }} {%
+  else %} {{ site.title }} - {{ page.title }} {% endif %} {% endif %}
 </title>
 
 <meta
@@ -8,13 +10,30 @@
   content="{{ page.description | default: site.description }}"
 />
 
-<meta name="author" content="{{ site.author }}" />
+<meta
+  name="author"
+  content="{% if page.lang == 'ru' %}{{ site.title_ru }}{% else %}{{ site.title }}{% endif %}"
+/>
 <meta name="robots" content="index,follow" />
 <meta name="color-scheme" content="light dark" />
 
 <meta
   property="og:title"
-  content="{% if page.title %} {{ site.title }} - {{ page.title }} {% else %} {{ site.title }} {% endif %}"
+  content="
+    {% if page.title %}
+    {% if page.lang == 'ru' %}
+       {{ site.title_ru }} - {{ page.title }}
+    {% else %}
+       {{ site.title }} - {{ page.title }}
+    {% endif %}
+  {% else %}
+    {% if page.lang == 'ru' %}
+       {{ site.title_ru }} - {{ page.title }}
+    {% else %}
+       {{ site.title }} - {{ page.title }}
+    {% endif %}
+  {% endif %}
+  "
 />
 <meta
   property="og:description"
@@ -31,3 +50,13 @@
 {% else %}
 <meta property="og:type" content="website" />
 {% endif %}
+
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  title="{{ site.title }}"
+  href="/feed.xml"
+/>
+
+<link rel="alternate" hreflang="en" href="{{ site.url }}/" />
+<link rel="alternate" hreflang="ru" href="{{ site.url }}/ru/" />

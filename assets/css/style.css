@@ -35,9 +35,13 @@ body {
   padding: 2rem 1.5rem;
 }
 h1 {
-  margin: 1rem 0 1.5rem;
+  margin: 1rem 0 1rem;
   font-size: calc(1.3rem + 0.6vw);
   text-align: center;
+}
+h2 {
+  margin: 3rem 0 0.5rem;
+  font-size: calc(0.8rem + 0.6vw);
 }
 .post-title {
   text-align: start;

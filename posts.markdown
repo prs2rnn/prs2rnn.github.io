@@ -6,6 +6,8 @@ description: "Complete archive of blog posts: health, lifestyle, education, and 
 ---
 
 {% for post in site.posts %}
+  {% if post.lang == "en" %}
 {{ post.date | date: "%Y-%m-%d" }}&nbsp;
   [{{ post.title }}]({{ post.url }})
+  {% endif %}
 {% endfor %}

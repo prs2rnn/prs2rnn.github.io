@@ -1,11 +1,12 @@
 <!doctype html>
-<html lang="en">
+<html lang="{{ page.lang | default: 'en'}}">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     {% include seo.html %}
     <link rel="stylesheet" href="/assets/css/bootstrap-reboot.min.css" />
     <link rel="stylesheet" href="/assets/css/style.css" />
+    <link rel="stylesheet" href="/assets/css/syntax.css" />
 
     <script
       defer
@@ -17,13 +18,16 @@
     <header>
       <nav>
         {% if page.url == "/" %}
-          <a href="/about/">About</a>
-          <a href="/now/">Now</a>
-          <a href="/posts/">Posts</a>
-          <a href="/ru/">Ru</a>
+        <a href="/about/">About</a>
+        <a href="/now/">Now</a>
+        <a href="/posts/">Posts</a>
+        <a href="/ru/">Ru</a>
+        {% else %} {% if page.url == "/ru/" %}
+        <a href="/ru/posts/">Посты</a>
+        <a href="/">En</a>
         {% else %}
-          <a href="/">..</a>
-        {% endif %}
+        <a href="{% if page.lang == 'ru' %}/ru/{% else %}/{% endif %}">..</a>
+        {% endif %} {% endif %}
       </nav>
     </header>
     <main>{{ content }}</main>
