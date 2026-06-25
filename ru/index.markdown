@@ -14,5 +14,5 @@ Python-разработчик
 
 <div class="buttons">
 <a href="https://github.com/prs2rnn?tab=repositories" target="_blank" rel="noopener noreferrer" class="button">Посмотреть портфолио</a>
-<a style="margin-left: 5px;" href="mailto:developer.prs2rnn@gmail.com" class="button" rel="noopener noreferrer">Написать на почту</a>
+<a href="mailto:developer.prs2rnn@gmail.com" class="button" rel="noopener noreferrer">Написать на почту</a>
 </div>
