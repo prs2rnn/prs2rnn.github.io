@@ -6,11 +6,11 @@ lang: en
 description: Sights of the Saint-Petersburg.
 ---
 
-![](/assets/images/City%20Institutions%20House.webp)
+![City Institutions House Photo](/assets/images/City%20Institutions%20House.webp)
 City Institutions House
 
-![](/assets/images/Palace%20Square.webp)
+![Palace Square Photo](/assets/images/Palace%20Square.webp)
 Palace Square
 
-![](/assets/images/Hermitage.webp)
+![Hermitage Photo](/assets/images/Hermitage.webp)
 Hermitage
