@@ -12,7 +12,7 @@ Python-разработчик
 
 Проектирую и разрабатываю backend-сервисы, REST API и приложения, ориентированные на работу с данными, используя Python и современные веб-технологии.
 
-<div style="display: flex;">
+<div class="buttons">
 <a href="https://github.com/prs2rnn?tab=repositories" target="_blank" rel="noopener noreferrer" class="button">Посмотреть портфолио</a>
 <a style="margin-left: 5px;" href="mailto:developer.prs2rnn@gmail.com" class="button" rel="noopener noreferrer">Написать на почту</a>
 </div>
