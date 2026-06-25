@@ -7,7 +7,11 @@ layout: default
 <article class="post-content">
   <h1 class="post-title">{{ page.title }}</h1>
 
-  <p>{{ page.date | date: "%Y-%m-%d" }}</p>
+  <p>
+    {{ page.date | date: "%Y-%m-%d" }} &nbsp; {% assign words = content |
+    number_of_words %} {% assign minutes = words | divided_by: 180 | at_least: 1
+    %} {{ minutes }} {% if page.lang == 'en' %}min read{% else %}мин на чтение{% endif %}
+  </p>
 
   {{ content }}
 </article>
