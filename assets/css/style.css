@@ -197,3 +197,10 @@ nav {
 #scroll-top.show {
   display: block;
 }
+.post-video {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
+}

@@ -1,0 +1,10 @@
+---
+layout: post
+title: Мои рыбалки
+tags: fishing
+lang: ru
+permalink: /ru/posts/:title/
+description: "Видео с моих рыбалок: ловля на поплавочную удочку, красивые места и удачные моменты."
+---
+
+{% include video.html src="/assets/videos/fishing.mp4" caption="На поплавок" %}

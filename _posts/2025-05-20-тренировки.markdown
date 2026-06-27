@@ -1,0 +1,13 @@
+---
+layout: post
+title: Мои тренировки
+tags: boxing
+lang: ru
+permalink: /ru/posts/:title/
+description: "Видео моих тренировок по боксу и силовой подготовке: работа на мешке, отжимания на брусьях и прогресс."
+---
+
+{% include video.html src="/assets/videos/boxing.mp4" caption="12 раундов по 3 минуты" %}
+
+
+{% include video.html src="/assets/videos/dips.mp4" caption="100 отжиманий на брусьях" %}
